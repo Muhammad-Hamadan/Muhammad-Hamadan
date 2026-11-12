@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on coding projects for the HKUST Robotics Team, and my COMP courses. 
-- 🌱 I’m currently learning Python, NumPy, Pandas, C++ and programming in C. 
+- 🔭 I’m currently working on coding projects in OOPs for C++.
+- 🌱 I have learned Python including Numpy, Pandas, Keras, TensorFlow and PyTorch(on a surface level)
+- I have also spent time on game development projects in Unity.
+- I have also gotten experience working with Full Stack App Development (JavaScript, TypeScript, React Native and mySQL) 
 
-- ⚡ Fun fact: I am still trying to get the hang of programming productively and efficiently
+- ⚡ Fun fact: I am grinding LeetCode too. 
